@@ -1,0 +1,1 @@
+alias pipenv-activate='. $(pipenv --venv)/bin/activate'
